@@ -1,2 +1,0 @@
-x = hgfdgdgh
-print(x)
