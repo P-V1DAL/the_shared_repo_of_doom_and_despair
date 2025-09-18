@@ -1,0 +1,2 @@
+x = hgfdgdgh
+print(x)
